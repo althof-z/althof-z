@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Althof</h1>
-<h3 align="center">A man who is currently trying to be great in this industry</h3>
 
 - 🌱 I’m currently learning **React and Flutter**
 
