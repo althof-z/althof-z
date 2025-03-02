@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Althof</h1>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently exploring **SpringBoot and Vue**
 
 - 📫 You can reach me **althof.zpv@gmail.com**
 
